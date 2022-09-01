@@ -1,0 +1,42 @@
+button.btn.btn-primary.btnboostrap {
+    padding: 10px 35px !important;
+    border-radius: 50px !important;
+  
+  }
+
+
+  input#name {
+
+    border-radius: 0;
+}
+
+input#email {
+    border-radius: 0;
+}
+
+input#phone {
+    border-radius: 0;
+}
+
+input#date {
+    border-radius: 0;
+}
+
+select#department {
+    border-radius: 0;
+}
+
+select#doctor {
+    border-radius: 0;
+}
+
+textarea.form-control {
+    border-radius: 0;
+}
+
+input#subject {
+    border-radius: 0;
+}
+
+
+
